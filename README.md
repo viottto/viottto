@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @viottto
-- 👀 I’m interested in nodejs projects.
-- 🌱 I’m currently learning express
-- 💞️ I’m looking to collaborate on opensource automation projects
+- 🌱 I’m currently learning TS, nestJS, FastAPI
 - 📫 @viottto on instagram and linkedin
 
 <!---
